@@ -2,7 +2,7 @@
 
 **A stereo-linked peak limiter VST3 plugin, built with JUCE and C++.**
 
-![CraftLimit running in Studio One](assets/screenshot-studio-one.jpg)
+![CraftLimit running in Studio One](assets/screenshot-studio-one.png)
 
 ---
 

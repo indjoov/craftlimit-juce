@@ -1,0 +1,47 @@
+# Build output
+build/
+Builds/
+JuceLibraryCode/
+out/
+
+# JUCE itself (we use add_subdirectory; users clone separately)
+JUCE/
+
+# IDE / editor
+.vs/
+.vscode/
+.idea/
+*.vcxproj.user
+*.suo
+*.user
+*.sublime-*
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Compiled artifacts
+*.obj
+*.o
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.vst3
+*.component
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Logs
+*.log
